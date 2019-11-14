@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="717" started-at="2019-09-22T06:49:54Z" finished-at="2019-09-22T06:49:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="717" started-at="2019-09-22T06:49:54Z" finished-at="2019-09-22T06:49:54Z">
+      <class name="org.test.cts.test.TestngClass.Sample">
+        <test-method status="PASS" signature="tc22()[pri:0, instance:org.test.cts.test.TestngClass.Sample@39aeed2f]" name="tc22" duration-ms="685" started-at="2019-09-22T06:49:54Z" finished-at="2019-09-22T06:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc22 -->
+      </class> <!-- org.test.cts.test.TestngClass.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
